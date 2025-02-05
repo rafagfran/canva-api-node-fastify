@@ -15,6 +15,10 @@
     "typescript": "^5.7.3"
   },
   "dependencies": {
-    "fastify": "^5.2.1"
+    "@fastify/cors": "^10.0.2",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1",
+    "pino-pretty": "^13.0.0"
   }
 }
